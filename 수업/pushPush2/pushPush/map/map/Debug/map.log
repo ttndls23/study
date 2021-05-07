@@ -1,0 +1,15 @@
+﻿  answer.c
+C:\Users\이수인\Desktop\pushPush2\pushPush\map\map\answer.c(9,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+  checkFinish.c
+  checkMove.c
+  display.c
+C:\Users\이수인\Desktop\pushPush2\pushPush\map\map\display.c(10,10): warning C4101: 'level' :참조되지 않은 지역 변수입니다.
+  getkey.c
+C:\Users\이수인\Desktop\pushPush2\pushPush\map\map\getkey.c(8,14): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  init.c
+  main.c
+  map.c
+  move.c
+  코드를 생성하고 있습니다...
+  map.vcxproj -> C:\Users\이수인\Desktop\pushPush2\pushPush\map\Debug\map.exe
