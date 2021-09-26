@@ -18,9 +18,9 @@ if(abs(x2 - x1) == abs(x3 - x2)) and (abs(y2 - y1) == abs(y3 - y2)):
 else:
     if(x1 > x2):
         if (y2 > y3):
-            print("1")
-        else:
             print("-1")
+        else:
+            print("1")
     else:
         if (y2 > y3):
             print("-1")
