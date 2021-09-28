@@ -21,3 +21,5 @@ if (max_num_count >= 2):
     print("?")
 else:
     print(max_alp)
+
+    # 해당 코드는 정상 동작, 정답 인정
