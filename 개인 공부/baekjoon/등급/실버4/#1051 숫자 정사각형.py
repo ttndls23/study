@@ -23,3 +23,5 @@ def get_size(hight, width):
 
 get_size(hight, width);
 print(max(result));
+                    
+        
